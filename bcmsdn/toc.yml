@@ -7,8 +7,8 @@
     homepage:  https://msdnnext.redmond.corp.microsoft.com
     items:
     - name: Advanced Threat Analytics
-      href: /opmsdn/opmsdn/
-      homepage: /opmsdn/opmsdn/001.html
+      href: /opmsdn/
+      homepage: /opmsdn/001.html
     - name: Reference
       href: 
       homepage:
