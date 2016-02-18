@@ -1,21 +1,14 @@
 - name: Documentation 
-  href: https://msdnnext.redmond.corp.microsoft.com
-  homepage:  https://msdnnext.redmond.corp.microsoft.com
+  href: 
+  homepage:  
   items:
-  - name: Enterprise Mobility
+  - name: Next Homepage
     href:  https://msdnnext.redmond.corp.microsoft.com
     homepage:  https://msdnnext.redmond.corp.microsoft.com
     items:
-    - name: Advanced Threat Analytics
+    - name: OP MSDN
       href: /opmsdn/
       homepage: /opmsdn/
-    - name: Reference
-      href: 
-      homepage:
-      items:
-        - name: Microsoft.IdentityModel.Clients.ActiveDirectory 
-          href: 
-          homepage:
-        - name: Microsoft.IdentityModel.Clients.ActiveDirectory.Internal
-          href: 
-          homepage: 
+    - name: OP Windows
+      href: /opwindows/
+      homepage: /opwindows/
