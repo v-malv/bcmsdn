@@ -12,3 +12,12 @@
     - name: OP Windows
       href: /opwindows/
       homepage: /opwindows/
+    - name: OP WindowsAzure
+      href: /opwdsa/
+      homepage: /opwdsa/
+    - name: OP Windows Hardware
+      href: /opwdsh/
+      homepage: /opwdsh/
+    - name: OP PartnerCenter
+      href: /oppnc/
+      homepage: /oppnc/
