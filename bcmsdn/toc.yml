@@ -3,8 +3,8 @@
   homepage:  
   items:
   - name: Next Homepage
-    href:  https://msdnnext.redmond.corp.microsoft.com
-    homepage:  https://msdnnext.redmond.corp.microsoft.com
+    href:  https://ppe.msdn.microsoft.com
+    homepage:  https://ppe.msdn.microsoft.com
     items:
     - name: OP MSDN
       href: /opmsdn/
